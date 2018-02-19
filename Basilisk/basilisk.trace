@@ -1,0 +1,155 @@
+Seed Words: people guerrillas members troops cristiani rebels president terrorists soldiers leaders 
+Unique patterns:  20982
+
+ITERATION 1
+
+PATTERN POOL
+1 .  <subj>_ActVp:POS__BLEW_UP ( 1.203 )
+2 .  PassVp_Prep_<NP>:POS__ATTACKED_BY ( 1.203 )
+3 .  Np_Prep_<NP>:POS__PRESENCE_OF ( 1.088 )
+4 .  <subj>_ActVp:POS__PLACED ( 1.080 )
+5 .  <subj>_ActVp:POS__BURNED ( 1.057 )
+6 .  <subj>_ActVp:POS__COMBING ( 1.057 )
+7 .  <subj>_ActVp:POS__HIDING ( 1.057 )
+8 .  <subj>_ActVp:POS__REQUEST ( 1.057 )
+9 .  <subj>_ActVp:POS__TRANSPORTED ( 1.057 )
+10 .  <subj>_ActVp_Dobj:POS__ATTACKED_TROOPS ( 1.057 )
+11 .  <subj>_ActVp_Dobj:POS__COMBING_AREA ( 1.057 )
+12 .  <subj>_ActVp_Dobj:POS__SUSTAINED_CASUALTIES ( 1.057 )
+13 .  <subj>_AuxVp_Dobj:POS__BE_COMMANDER ( 1.057 )
+14 .  ActVp_Prep_<NP>:POS__DELIVER_TO ( 1.057 )
+15 .  ActVp_Prep_<NP>:POS__MURDERED_BY ( 1.057 )
+16 .  Subj_AuxVp_<dobj>:POS__BE_MEMBERS ( 1.057 )
+
+
+NEW WORDS
+advisors ( 2.322 )
+contingents ( 2.322 )
+observers ( 1.953 )
+futh ( 1.333 )
+commandoes ( 1.000 )
+
+
+
+ITERATION 2
+
+PATTERN POOL
+1 .  Np_Prep_<NP>:POS__PRESENCE_OF ( 1.904 )
+2 .  <subj>_ActVp:POS__BLEW_UP ( 1.604 )
+3 .  <subj>_ActVp:POS__BURNED ( 1.409 )
+4 .  PassVp_Prep_<NP>:POS__ATTACKED_BY ( 1.203 )
+5 .  <subj>_ActVp:POS__PLACED ( 1.080 )
+6 .  <subj>_ActVp:POS__COMBING ( 1.057 )
+7 .  <subj>_ActVp:POS__HIDING ( 1.057 )
+8 .  <subj>_ActVp:POS__REQUEST ( 1.057 )
+9 .  <subj>_ActVp:POS__TRANSPORTED ( 1.057 )
+10 .  <subj>_ActVp_Dobj:POS__ATTACKED_TROOPS ( 1.057 )
+11 .  <subj>_ActVp_Dobj:POS__COMBING_AREA ( 1.057 )
+12 .  <subj>_ActVp_Dobj:POS__SUSTAINED_CASUALTIES ( 1.057 )
+13 .  <subj>_AuxVp_Dobj:POS__BE_COMMANDER ( 1.057 )
+14 .  ActVp_Prep_<NP>:POS__DELIVER_TO ( 1.057 )
+15 .  ActVp_Prep_<NP>:POS__MURDERED_BY ( 1.057 )
+16 .  Subj_AuxVp_<dobj>:POS__BE_MEMBERS ( 1.057 )
+
+
+NEW WORDS
+cyanide ( 1.000 )
+&&4 ( 0.943 )
+narcoterrorists ( 0.821 )
+demonstrators ( 0.802 )
+employees ( 0.800 )
+
+
+
+ITERATION 3
+
+PATTERN POOL
+1 .  Np_Prep_<NP>:POS__PRESENCE_OF ( 2.176 )
+2 .  PassVp_Prep_<NP>:POS__ATTACKED_BY ( 2.005 )
+3 .  <subj>_ActVp:POS__BURNED ( 1.761 )
+4 .  <subj>_ActVp:POS__BLEW_UP ( 1.604 )
+5 .  <subj>_ActVp:POS__TRANSPORTED ( 1.585 )
+6 .  <subj>_ActVp:POS__ATTACKED ( 1.340 )
+7 .  <subj>_ActVp:POS__SUSTAINED ( 1.203 )
+8 .  <subj>_ActVp:POS__PLACED ( 1.080 )
+9 .  <subj>_ActVp:POS__COMBING ( 1.057 )
+10 .  <subj>_ActVp:POS__HIDING ( 1.057 )
+11 .  <subj>_ActVp:POS__REQUEST ( 1.057 )
+12 .  <subj>_ActVp_Dobj:POS__ATTACKED_TROOPS ( 1.057 )
+13 .  <subj>_ActVp_Dobj:POS__COMBING_AREA ( 1.057 )
+14 .  <subj>_ActVp_Dobj:POS__SUSTAINED_CASUALTIES ( 1.057 )
+15 .  <subj>_AuxVp_Dobj:POS__BE_COMMANDER ( 1.057 )
+16 .  ActVp_Prep_<NP>:POS__DELIVER_TO ( 1.057 )
+17 .  ActVp_Prep_<NP>:POS__MURDERED_BY ( 1.057 )
+18 .  Np_Prep_<NP>:POS__WORDS_AS ( 1.057 )
+19 .  Subj_AuxVp_<dobj>:POS__BE_MEMBERS ( 1.057 )
+
+
+NEW WORDS
+nicaraguan ( 2.377 )
+fighters ( 1.042 )
+mercenaries ( 1.034 )
+artillery ( 0.792 )
+children ( 0.781 )
+
+
+
+ITERATION 4
+
+PATTERN POOL
+1 .  Np_Prep_<NP>:POS__PRESENCE_OF ( 2.176 )
+2 .  <subj>_ActVp:POS__BURNED ( 2.113 )
+3 .  <subj>_ActVp:POS__ATTACKED ( 2.010 )
+4 .  PassVp_Prep_<NP>:POS__ATTACKED_BY ( 2.005 )
+5 .  <subj>_ActVp:POS__BLEW_UP ( 1.604 )
+6 .  <subj>_ActVp:POS__TRANSPORTED ( 1.585 )
+7 .  <subj>_ActVp:POS__SUSTAINED ( 1.203 )
+8 .  <subj>_ActVp:POS__PLACED ( 1.080 )
+9 .  <subj>_ActVp:POS__COMBING ( 1.057 )
+10 .  <subj>_ActVp:POS__FALLEN ( 1.057 )
+11 .  <subj>_ActVp:POS__HIDING ( 1.057 )
+12 .  <subj>_ActVp:POS__REQUEST ( 1.057 )
+13 .  <subj>_ActVp_Dobj:POS__ATTACKED_POLICE_STATION ( 1.057 )
+14 .  <subj>_ActVp_Dobj:POS__ATTACKED_TROOPS ( 1.057 )
+15 .  <subj>_ActVp_Dobj:POS__COMBING_AREA ( 1.057 )
+16 .  <subj>_ActVp_Dobj:POS__SUSTAINED_CASUALTIES ( 1.057 )
+17 .  <subj>_AuxVp_Dobj:POS__BE_COMMANDER ( 1.057 )
+18 .  <subj>_PassVp:POS__DEFENDED ( 1.057 )
+19 .  ActVp_Prep_<NP>:POS__DELIVER_TO ( 1.057 )
+20 .  ActVp_Prep_<NP>:POS__MURDERED_BY ( 1.057 )
+21 .  Np_Prep_<NP>:POS__WORDS_AS ( 1.057 )
+22 .  Subj_AuxVp_<dobj>:POS__BE_MEMBERS ( 1.057 )
+
+
+NEW WORDS
+mrta ( 0.813 )
+guerillas ( 0.755 )
+inmates ( 0.738 )
+government_forces ( 0.732 )
+columns ( 0.715 )
+
+
+
+ITERATION 5
+
+PATTERN POOL
+1 .  <subj>_ActVp:POS__ATTACKED ( 2.513 )
+2 .  PassVp_Prep_<NP>:POS__ATTACKED_BY ( 2.406 )
+3 .  Np_Prep_<NP>:POS__PRESENCE_OF ( 2.176 )
+4 .  <subj>_ActVp:POS__BURNED ( 2.113 )
+5 .  <subj>_ActVp:POS__BLEW_UP ( 1.604 )
+6 .  <subj>_ActVp:POS__SUSTAINED ( 1.604 )
+7 .  <subj>_ActVp:POS__TRANSPORTED ( 1.585 )
+8 .  <subj>_ActVp_Dobj:POS__SUSTAINED_CASUALTIES ( 1.585 )
+9 .  <subj>_ActVp:POS__DETONATED ( 1.292 )
+10 .  ActVp_Prep_<NP>:POS__CLASHED_WITH ( 1.203 )
+
+
+NEW WORDS
+insurgents ( 0.714 )
+peasants ( 0.707 )
+persons ( 0.697 )
+journalists ( 0.662 )
+units ( 0.645 )
+
+
